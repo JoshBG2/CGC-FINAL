@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Torch
+* source:	https://sketchfab.com/3d-models/wooden-torch-48e56d1bf89e46e7bcdccbbb997471f7
+* author:	SunsetScorpion (https://sketchfab.com/sunsetscorpion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Torch" (https://sketchfab.com/3d-models/wooden-torch-48e56d1bf89e46e7bcdccbbb997471f7) by SunsetScorpion (https://sketchfab.com/sunsetscorpion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

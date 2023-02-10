@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bush
+* source:	https://sketchfab.com/3d-models/bush-d09e9a94f5d44496b323164db76e10f4
+* author:	proxy_doug (https://sketchfab.com/proxy_doug)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bush" (https://sketchfab.com/3d-models/bush-d09e9a94f5d44496b323164db76e10f4) by proxy_doug (https://sketchfab.com/proxy_doug) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
